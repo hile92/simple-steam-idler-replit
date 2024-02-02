@@ -23,8 +23,8 @@ user.on('loggedOn', () => {
 // var password2 = process.env.password2;
 // var shared_secret2 = process.env.shared2;
 
-// var games2 = [730, 440, 570, 304930];  // Enter here AppIDs of the needed games
-// var status2 = 1;  // 1 - online, 7 - invisible
+// var games2 = [227300];  // Enter here AppIDs of the needed games
+// var status2 = 7;  // 1 - online, 7 - invisible
 
 
 // user2 = new steamUser();
